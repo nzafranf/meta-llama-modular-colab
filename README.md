@@ -1,6 +1,6 @@
 
 # Welcome!
-this is a `meta-llama/Llama-2-7b-chat-hf` LLM implementation. The aim of this project is to provide an example of how modular LLM prompting functions can accomodate single or batch inference. This project also has a testing functionality (limited to sentiment analysis at the moment).
+this is a `meta-llama/Llama-2-7b-chat-hf` LLM implementation. The aim of this project is to provide an example of how modular LLM prompting functions can accomodate single or batch inference. This project also has a testing functionality (limited to sentiment analysis at the moment). This project is best suited to use on Google Colab
 
 This repository also serves as the tutorial on using this notebook.
 
